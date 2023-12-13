@@ -1,0 +1,17 @@
+
+.div1{
+    display:flex ;
+    flex-wrap: wrap;
+    text-align: center;
+gap:20px
+}
+figcaption{
+    margin-left: 15px;
+    width: 100px;
+}
+.div2{
+    background-color: rgb(243, 242, 242);
+}
+.div3{
+    border-right:solid 2px gray;
+}

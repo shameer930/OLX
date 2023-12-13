@@ -1,0 +1,149 @@
+.sp1{
+    font-size: 15px;
+}
+.sp1:hover{
+    color:#021416 ;
+    font-weight: 500;
+}
+#heading1{
+    color: #002f34;
+    font-weight: bolder;
+}
+.con3{
+height: 218px;
+width: 900px;
+
+}
+#img0{
+    width: 320px;
+}
+.con9{
+   height: 220px;
+   width: 100px; 
+}
+h4{
+    color: #002f34;
+}
+h5{
+    color: #002f34;
+}
+.cont1.span{
+    color:#002f34;
+}
+.button1{
+border:2px solid #002f34;
+width: 110px;
+}
+.button2{
+    border:2px solid #002f34;
+    margin-left:15px ;
+   width: 110px;
+   background-color: #002f34;
+   color: white;
+}
+.span1{
+    font-size: 16px;
+    font-weight: bold;
+}
+.span2{
+    color: white;
+}
+.m7{
+width:335px;
+border-bottom: 1px solid #002f34;
+} 
+.m8{
+    margin-left: 10px;
+    width: 970px;
+    border-bottom: 1px solid #002f34;
+    } 
+    .p7{
+        font-size: 18px;
+        font-weight: 500;
+        color: #002f34;
+    }
+    .m9{
+        width:100px;
+        text-align:center;
+        background-color:  #c8f8f6 ;
+        color:#021416;
+        border-radius: 4px;
+     font-weight: bold;
+     height: 30px;
+}
+.m10{
+    display: flex;
+    gap: 10px;
+    border-right: 1px solid #cae2e1;
+    margin-right: -540px;
+}
+
+.m10p{
+    margin-top: 5px;
+    font-weight: bold;
+    
+}
+.m10img1{
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    background-color:#b1f3f1 ;
+    align-items: center;
+    line-height: 35px;
+}
+.m10img1:hover{
+    background-color:#0ae4dc ;
+}
+.m10img2{
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    align-items: center;
+    line-height: 35px;
+}
+.m10img2:hover{
+    background-color:#0ae4dc ;
+}
+.m12{
+    color: #002f34;
+}
+.p11{
+    margin-left: 20px;
+}
+.m12 p{
+    font-size: 14px;
+}
+.p15{
+    font-weight: bold;
+}
+.m13{
+    font-size: 14px;
+    color: #002f34;
+    margin-left: 40px;
+}
+.dropdown2{
+    border:solid 2px #204f53;
+    width:300px;
+    height: 45px;
+    align-items: center;
+    line-height: 35px;
+    background-color: white;
+    border-radius: 4px;
+} 
+#input2{
+    width: 15px;
+    height: 15px;
+    border-radius: 4px;
+    margin-left: 37px;
+    color: #002f34;
+    margin-top: 10px;
+}
+.m17 p{
+    font-size: 14px;
+    color: #002f34;
+    display:inline;
+    margin-left:10px;
+}
+p{
+    color: #204f53;
+}

@@ -1,0 +1,20 @@
+.container1{
+  background-color: rgb(238, 238, 238);
+ 
+  border:solid 1px  #0d626b;
+  
+
+
+}
+span{
+  display: block;
+  font-size: small;
+  color:  #0d626b;
+  font-weight:400 ;
+}
+.l1{
+color: #002f34;
+font-size: 14px;
+display: inline-block;
+font-weight: bold;
+}

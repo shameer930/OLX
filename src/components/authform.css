@@ -1,0 +1,84 @@
+body{
+  background-color:rgb(247, 246, 246);
+} 
+ #div011{
+  height: 600px;
+  width: 950px;
+  background-color: white;
+
+  border-radius: 24px;
+  margin: auto;
+  margin-top: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+#div021{
+ margin-left: 90px;
+  
+}
+#div031{
+ 
+}
+.paragraph11{
+  font-size: 38px;
+  font-weight: bolder;
+}
+.butt01{
+  margin-top: 20px;
+  width: 130px;
+  height: 50px;
+  color: white;
+}
+
+.input-container::placeholder,
+.custom-input,.form-check-label,
+.butt01,.paragrph2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+  font-weight: 600; /* Semibold */
+   /* Adjust the color as needed */
+
+}
+/* .input-container::placeholder,
+.custom-input,.form-check-label,
+.btn:hover{
+  color:black;
+} */
+
+
+
+
+  
+  .input-container {
+    display: flex;
+    align-items: center;
+   
+    border-bottom: 1px solid rgb(48, 47, 47); /* You can adjust the color as needed */
+    margin-bottom: 15px;
+    padding: 10px; /* Add padding for better spacing */
+    width: 320px; /* Set the width as needed */
+  }
+  
+  .input-icon {
+    margin-right: 10px;
+  }
+  
+  .custom-input {
+    border: none;
+    width: 600px;
+    outline: none; /* Remove the highlight on focus */
+  }
+  
+  .custom-input:focus {
+    border: none; /* Ensure no border on focus */
+    box-shadow: none; /* Remove any box shadow on focus */
+  }
+ .paragrph21{
+  margin-top: 40px;
+ }
+  
+  
